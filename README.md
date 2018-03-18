@@ -2,7 +2,10 @@
 This is the default icon theme for OzonOS. It also contains several variants with different coloured folders. It's licensed under the GNU GPLv3.
 
 ## This Fork...
-Iforked this icon them, in order to augment (add more app and actions/statuses icons) the theme, while explicitly preserving the rights and merit of the original creators.
+I forked this icon them, in order to augment (add more app and actions/statuses icons) the theme, while explicitly preserving the rights and merit of the original creators.
+### Resources Used:
+* ePapirus
+  * Symbolic Links
 
 ## Installing
 Clone/download this repo, extract it, and copy the "Ozon" folder to one of the following icon theme locations:
