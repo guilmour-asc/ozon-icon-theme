@@ -5,7 +5,7 @@ This is the default icon theme for OzonOS. It also contains several variants wit
 I forked this icon them, in order to augment (add more app and actions/statuses icons) the theme, while explicitly preserving the rights and merit of the original creators.
 ### Resources Used:
 * ePapirus
-  * Symbolic Links
+  * Symbolic Icons
 
 ## Installing
 Clone/download this repo, extract it, and copy the "Ozon" folder to one of the following icon theme locations:
